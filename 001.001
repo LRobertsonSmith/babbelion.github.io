@@ -2,6 +2,11 @@
 <!-- This is Standard HTML comment syntax -->
 <!-- 001.001 is a test file -->
 
-   git add .
-   git commit -m "Update site design"
-   git push origin main
+cd /Users/lillianrobertson/Documents/babbelion/index_landing_page.html
+
+git init
+git add index.html
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/LRobertsonSmith/LRobertsonSmith.github.io.git
+git push -u origin main
