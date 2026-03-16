@@ -1,4 +1,7 @@
-
 <!-- This is a hidden comment that won't render in the final output -->
 <!-- This is Standard HTML comment syntax -->
 <!-- 001.001 is a test file -->
+
+   git add .
+   git commit -m "Update site design"
+   git push origin main
